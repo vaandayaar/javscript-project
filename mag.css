@@ -1,0 +1,41 @@
+.navbar-brand {
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+.navbar-custom {
+    background-color: gray;
+}
+
+a {
+    font-size: 30px;
+    margin-right: 100px;
+}
+
+.max {
+    text-align: center;
+    padding-top: 150px;
+}
+
+h1 {
+    padding-bottom: 50px;
+    padding-top: 15px;
+    color: black;
+}
+
+#god {
+    background-color: white;
+    width: 50%;
+    height: 75px;
+    position: relative;
+    left: 350px;
+    border: 2px solid;
+}
+
+button {
+    margin-top: 100px;
+}
+
+#man {
+    margin-left: 25px;
+}
